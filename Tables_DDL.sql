@@ -1,7 +1,7 @@
 -- create a test database to organize the tables
-CREATE DATABASE mock_testdb;
+CREATE DATABASE testdb;
 -- use the above created database
-use mock_testdb;
+use testdb;
 -- create the customer table
 CREATE TABLE `customer` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
