@@ -7,6 +7,8 @@ I have used ```unittest``` and ```mock``` packages for unit testing; and ```cove
 
 Run the ```Tabels_DDL.sql``` script and you'll be ready to work on the database used in the project.
 
+PS: Change the **hostname** and **password** (as per your mysql server credentials) used in the ```database/dbconnector.py``` to connect to the database.
+
 ## Create a vitual environment
 Refer [this](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/) link to create a virtual environment first.
 
