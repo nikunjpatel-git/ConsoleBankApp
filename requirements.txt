@@ -7,7 +7,7 @@
 click==7.1.2              # via -r requirements.txt, pip-tools
 coverage==5.0             # via -r requirements.txt
 mock==3.0.5               # via -r requirements.txt
-mysql-connector-python==8.0.18  # via -r requirements.txt
+mysql-connector-python==9.1.0  # via -r requirements.txt
 pip-tools==5.2.1          # via -r requirements.txt
 protobuf==3.11.1          # via -r requirements.txt, mysql-connector-python
 six==1.13.0               # via -r requirements.txt, mock, pip-tools, protobuf
